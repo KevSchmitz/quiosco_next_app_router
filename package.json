@@ -16,6 +16,7 @@
     "@prisma/client": "^5.12.1",
     "next": "14.2.2",
     "next-cloudinary": "^6.5.2",
+    "quiosco-next": "file:",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
